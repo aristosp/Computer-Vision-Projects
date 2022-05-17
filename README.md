@@ -3,7 +3,7 @@ The projects in these repository were created for the purposes of the Computer V
 
 
 
-First project: Document Structure Analysis
+<b>First project: Document Structure Analysis</b>
 Given an image database of scanned documents:
 1) Create a bounding box around each area of interest in every image. Area of interest is defined as a part of the document that can be distinct from the rest parts of the document, such as page indexing, paragraphs, document title, etc.
 2) For each area of interest compute:
