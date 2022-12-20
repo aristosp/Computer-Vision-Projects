@@ -16,3 +16,8 @@ Given an image database of scanned documents:
      iii. Number of words in each area
 
      iv. Mean grayscale value in each box, with a method, whose runtime is independent of the size of that specific area.
+
+<b>Second project: Creation of a panorama image</b>
+Given a batch of images create their panorama image:
+1) Using SIFT Descriptor
+2) Using SURF Descriptor
