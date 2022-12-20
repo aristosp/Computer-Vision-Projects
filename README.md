@@ -21,3 +21,12 @@ Given an image database of scanned documents:
 Given a batch of images create their panorama image:
 1) Using SIFT Descriptor
 2) Using SURF Descriptor
+
+<b>Third project: Image classification using Knn and SVM classifiers</b>
+Given an image dataset depicting traffic signs, classify them using:
+1) Using Knn classifier
+2) Using SVM classifier
+
+Experiment using different values of k and different types of kernels. 
+The images are stored in a zip in the following link:
+https://drive.google.com/file/d/1i6slTI9tzgxCKIeOBis1vYk6NX21q0bR/view?usp=share_link
