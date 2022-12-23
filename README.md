@@ -18,11 +18,13 @@ Given an image database of scanned documents:
      iv. Mean grayscale value in each box, with a method, whose runtime is independent of the size of that specific area.
 
 <b>Second project: Creation of a panorama image</b>
+
 Given a batch of images create their panorama image:
 1) Using SIFT Descriptor
 2) Using SURF Descriptor
 
 <b>Third project: Image classification using Knn and SVM classifiers</b>
+
 Given an image dataset depicting traffic signs, classify them using:
 1) Using Knn classifier
 2) Using SVM classifier
@@ -30,6 +32,7 @@ Given an image dataset depicting traffic signs, classify them using:
 Experiment using different values of k and different types of kernels. 
 
 <b>Fourth project: Image classification using custom and pre-trained architectures</b>
+
 Given an image dataset depicting traffic signs, classify them using:
 1) A custom-made network
 2) Using pre-trained networks
