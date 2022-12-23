@@ -28,5 +28,11 @@ Given an image dataset depicting traffic signs, classify them using:
 2) Using SVM classifier
 
 Experiment using different values of k and different types of kernels. 
-The images are stored in a zip in the following link:
+
+<b>Fourth project: Image classification using custom and pre-trained architectures</b>
+Given an image dataset depicting traffic signs, classify them using:
+1) A custom-made network
+2) Using pre-trained networks
+
+The images for the third and fourth project are stored in a zip in the following link:
 https://drive.google.com/file/d/1i6slTI9tzgxCKIeOBis1vYk6NX21q0bR/view?usp=share_link
